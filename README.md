@@ -1,2 +1,0 @@
-# TTech
-backend nodejs TTech
